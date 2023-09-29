@@ -3,7 +3,7 @@
 
 
 * Assignment- 1 Microservices
-
+====================
 
 
 Assignment on Spring Rest API -> Monolithic
@@ -20,9 +20,7 @@ Create folloiwng rest services operations
 4.User Service
 
 
-1.Search Service
-====================
-GET/POST/PUT/DELETE Methods
+1.Search Service : GET/POST/PUT/DELETE Methods
 	-> Add
 	-> find all
 	-> find by id 
