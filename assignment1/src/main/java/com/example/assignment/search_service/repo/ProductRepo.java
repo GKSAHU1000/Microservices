@@ -11,6 +11,5 @@ import java.util.Optional;
 @Repository
 public interface ProductRepo extends JpaRepository<Product,Integer> {
 
-
     List<Product> findByName(String pname);
 }
